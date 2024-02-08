@@ -89,6 +89,16 @@
       "comparison": "exact",
       "timeout": 10,
       "points": 5
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "gradle test --tests TestEBankingApp.test9",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
     }
   ]
 }
